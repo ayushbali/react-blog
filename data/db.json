@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it?\nIt is a long established fact that reader will be distracted\nWhy do we use it?\nIt is a long established fact that reader will be distracted\nWhy do we use it?\nIt is a long established fact that reader will be distracted\nWhy do we use it?\nIt is a long established fact that reader will be distracted\nWhy do we use it?\nIt is a long established fact that reader will be distracted",
+      "author": "ayush",
+      "id": 1
+    },
+    {
+      "title": "My Second Blog",
+      "body": "Why do we use it?\nIt is a long established fact that reader will be distracted\nWhy do we use it?\nIt is a long established fact that reader will be distracted\nWhy do we use it?\nIt is a long established fact that reader will be distracted\nWhy do we use it?\nIt is a long established fact that reader will be distracted\nWhy do we use it?\nIt is a long established fact that reader will be distracted\nWhy do we use it?\nIt is a long established fact that reader will be distracted",
+      "author": "rishu",
+      "id": 2
+    }
+  ]
+}
